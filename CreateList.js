@@ -8,7 +8,7 @@ var availableCards = [
 	"Unaccompanied minor",
 	"Politics",
 	"Name dropper",
-	"...with every fiber of my being...",
+	"...With every fiber of my being...",
 	"The Arrangement (I'll go up if you go up)",
 	"Too much information",
 	"In the name of Thy Son...",
@@ -30,7 +30,7 @@ var availableCards = [
 
 var usedCards = [];
 
-for (i = 0; i < 3; i++) {
+for (i = 0; i < 24; i++) {
 	var index = Math.floor((Math.random() * availableCards.length));
 	usedCards.push(availableCards[index]);
 	availableCards.splice(index, 1);
