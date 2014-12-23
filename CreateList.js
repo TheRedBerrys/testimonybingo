@@ -24,8 +24,17 @@ var availableCards = [
 	"Good Joke (congregation laughs)",
 	"Travelogue",
 	"Medical Problems",
-	"Someone talks in a foreign language"
+	"Someone talks in a foreign language",
+	"I don't know where I would be..."
 ];
 
+var usedCards = [];
+
+for (i = 0; i < 3; i++) {
+	var index = Math.floor((Math.random() * availableCards.length));
+	usedCards.push(availableCards[index]);
+	availableCards.splice(index, 1);
+}
+
 var testDiv = document.getElementById("test");
-testDiv.innerHTML = availableCards.join("<br/>");
+testDiv.innerHTML = usedCards.join("<br/>");
