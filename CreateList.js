@@ -28,7 +28,8 @@ var availableCards = [
 	"I don't know where I would be...",
 	"I don't know why I'm up here...",
 	"Three Nephites",
-	"Entire testimony without mentioning Jesus"
+	"Entire testimony without mentioning Jesus",
+	"Bruce R. McConkie Quote"
 ];
 
 var usedCards = [];
