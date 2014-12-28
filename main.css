@@ -27,12 +27,13 @@
 }
 
 .grid-no {
-	background-color: #CCC0B3;
+	background-color: #bbada0;
 }
 
 span {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 100%;
+	color: #e0e0e0;
 	text-align: center;
 	text-transform: uppercase;
 	position: absolute;
