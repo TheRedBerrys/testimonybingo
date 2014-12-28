@@ -1,0 +1,43 @@
+.grid-container {
+	width: 100%;
+	height: 100%;
+}
+
+.grid-row {
+  margin-bottom: 15px; 
+}
+
+.grid-cell {
+	float: left;
+	width: 20%;
+	height: 20%;
+}
+
+.grid-cell-inner {
+	width: 90%;
+	height: 90%;
+	position: relative;
+	border-radius: 10%;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.grid-yes {
+	background-color: #5FCF80;
+}
+
+.grid-no {
+	background-color: #CCC0B3;
+}
+
+span {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	right: 20%;
+	transform: translate(0, -50%)
+}

@@ -25,7 +25,10 @@ var availableCards = [
 	"Travelogue",
 	"Medical Problems",
 	"Someone talks in a foreign language",
-	"I don't know where I would be..."
+	"I don't know where I would be...",
+	"I don't know why I'm up here...",
+	"Three Nephites",
+	"Entire testimony without mentioning Jesus"
 ];
 
 var usedCards = [];
@@ -36,5 +39,16 @@ for (i = 0; i < 24; i++) {
 	availableCards.splice(index, 1);
 }
 
-var testDiv = document.getElementById("test");
-testDiv.innerHTML = usedCards.join("<br/>");
+usedCards.splice(12, 0, "I know this church is true (free space)");
+
+var cells = [];
+var elems = document.getElementsByTagName('*'),i;
+for (i in elems) {
+	if((" "+elems[i].className+" ").indexOf("grid-cell-inner") > -1) {
+		cells.push(elems[i]);
+	}
+}
+
+for (cell in cells) {
+	cells[cell].innerHTML = "<span>" + usedCards[cell] + "</span>";
+}
