@@ -27,13 +27,19 @@
 }
 
 .grid-no {
-	background-color: #bbada0;
+	background-color: #C4B7AB;
 }
 
 .text {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 100%;
-	color: #e0e0e0;
+	color: #634714;
 	text-align: center;
 	text-transform: uppercase;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 90%;
+	margin-top: auto;
+	margin-bottom: auto;
 }
