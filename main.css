@@ -20,6 +20,7 @@
 	border-radius: 10%;
 	margin-left: 0;
 	margin-right: 0;
+	overflow: hidden;
 }
 
 .grid-yes {
@@ -36,10 +37,5 @@
 	color: #634714;
 	text-align: center;
 	text-transform: uppercase;
-	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
-	height: 90%;
-	margin-top: auto;
-	margin-bottom: auto;
+	margin: 10%;
 }
