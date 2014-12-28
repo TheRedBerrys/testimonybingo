@@ -3,7 +3,7 @@ var availableCards = [
 	"Member of the bishopric falls asleep",
 	"Tender Mercies",
 	"Odd use of the word 'Even'",
-	"Someone getting up after the meeting should be over",
+	"Someone gets up after the meeting should end",
 	"Mad dash for first place",
 	"Unaccompanied minor",
 	"Politics",
@@ -29,7 +29,8 @@ var availableCards = [
 	"I don't know why I'm up here...",
 	"Three Nephites",
 	"Entire testimony without mentioning Jesus",
-	"Bruce R. McConkie Quote"
+	"Bruce R. McConkie Quote",
+	"A child cries for 5 minutes"
 ];
 
 var usedCards = [];
@@ -51,5 +52,5 @@ for (i in elems) {
 }
 
 for (cell in cells) {
-	cells[cell].innerHTML = "<span>" + usedCards[cell] + "</span>";
+	cells[cell].innerHTML = '<div class="text">' + usedCards[cell] + '</div>';
 }
