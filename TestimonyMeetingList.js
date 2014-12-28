@@ -11,7 +11,7 @@ var availableCards = [
 	"'...With every fiber of my being...'",
 	"The Arrangement ('I'll go up if you go up')",
 	"Too much information",
-	"'In the name of Thy Son...'",
+	"'In the name of Thy Son...' (not in a prayer)",
 	"Child with parent giving words",
 	"Bad Joke (people don't laugh)",
 	"The Regular",
@@ -29,6 +29,8 @@ var availableCards = [
 	"'I don't know why I'm up here...'",
 	"Three Nephites",
 	"Entire testimony without mentioning Jesus",
-	"Bruce R. McConkie Quote",
-	"A child cries for 5 minutes"
+	"Reference to outdated counsel (caffeine, etc.)",
+	"A child cries for 5 minutes",
+	"'I'll be brief...' (then isn't brief)",
+	"False doctrine"
 ];
