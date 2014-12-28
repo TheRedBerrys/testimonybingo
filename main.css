@@ -1,6 +1,18 @@
+.header-footer {
+	width: 100%;
+	height: 10%;
+	background-color: #5FCF80;
+	border-radius: 10%;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 2em;
+	color: #634714;
+	text-align: center;
+	text-transform: uppercase;
+}
+
 .grid-container {
 	width: 100%;
-	height: 100%;
+	height: 80%;
 }
 
 .grid-row {
@@ -14,12 +26,12 @@
 }
 
 .grid-cell-inner {
+	position: relative;
 	width: 90%;
 	height: 90%;
-	position: relative;
 	border-radius: 10%;
-	margin-left: 0;
-	margin-right: 0;
+	margin-left: auto;
+	margin-right: auto;
 	overflow: hidden;
 }
 
