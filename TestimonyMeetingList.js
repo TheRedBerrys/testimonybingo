@@ -18,7 +18,7 @@ var availableCards = [
 	"Moment of Silence (over 30 seconds)",
 	"Movie Comparison",
 	"'On my mission...'",
-	"The Ugly Cry",
+	"The speaker cries",
 	"The Long Talker (over ten minutes)",
 	"Not a member of the ward",
 	"Good Joke (people laugh)",
