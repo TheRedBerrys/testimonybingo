@@ -10,7 +10,7 @@ var availableCards = [
 	"Bad Joke (people don't laugh)",
 	"Movie Comparison",
 	"'On my mission...'",
-	"The Ugly Cry",
+	"The speaker cries",
 	"Good Joke (people laugh)",
 	"Someone talks in a foreign language",
 	"'I don't know where I would be...'",
