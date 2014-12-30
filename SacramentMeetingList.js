@@ -8,7 +8,6 @@ var availableCards = [
 	"Too much information",
 	"'In the name of Thy Son...' (not in a prayer)",
 	"Bad Joke (people don't laugh)",
-	"Moment of Silence (over 30 seconds)",
 	"Movie Comparison",
 	"'On my mission...'",
 	"The Ugly Cry",
@@ -25,8 +24,8 @@ var availableCards = [
 	"Mention of the world getting more wicked",
 	"'The dictionary defines...'",
 	"Someone reads a poem",
-	"Leader mentions praying for members",
-	"Someone talks about love for spouse",
+	"Someone mentions leaders praying for members",
+	"Speaker talks about love for their spouse",
 	"Talk based on conference talk",
 	"Mention of patriarchal blessing",
 	"Reference to non-members as 'Gentiles'",
@@ -36,5 +35,7 @@ var availableCards = [
 	"'The family is under attack'",
 	"'The mission field'",
 	"Humble brag",
-	"Fancy prayer beginning or ending"
+	"Fancy prayer beginning or ending",
+	"'For those of you who don't know me...'",
+	"The prase 'Hasten the work'"
 ];
