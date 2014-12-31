@@ -1,15 +1,16 @@
 .header-footer {
 	width: 90%;
-	background-color: #88C0FC;
+	background-color: #976c1f;
 	border-radius: 10px;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 2em;
-	color: #634714;
+	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 15px;
 	margin-left: auto;
 	margin-right: auto;
+	font-weight: bold;
 }
 
 .grid-container {
@@ -44,14 +45,14 @@
 }
 
 .grid-no {
-	background-color: #C4B7AB;
+	background-color: #634714;
 }
 
 .text {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 120%;
-	color: #634714;
+	color: #fff;
 	text-align: center;
-	text-transform: uppercase;
+    font-variant: small-caps;
 	margin: 10%;
 }
