@@ -50,9 +50,10 @@
 
 .text {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 120%;
+	font-size: 130%;
+	font-weight: bold;
 	color: #fff;
 	text-align: center;
-    font-variant: small-caps;
+	text-transform: uppercase;
 	margin: 10%;
 }
