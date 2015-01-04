@@ -4,9 +4,9 @@ var availableCards = [
 	"The phrase 'Tender Mercies'",
 	"Odd use of the word 'Even'",
 	"Someone gets up after the meeting should end",
-	"Mad dash for first place",
+	"Three or more people waiting to speak",
 	"Child without parent",
-	"Politics",
+	"Politics or current events",
 	"Name dropper",
 	"'...With every fiber of my being...'",
 	"The Arrangement ('I'll go up if you go up')",
@@ -16,7 +16,7 @@ var availableCards = [
 	"Bad Joke (people don't laugh)",
 	"The Regular",
 	"Moment of Silence (over 30 seconds)",
-	"Movie Comparison",
+	"Pop Culture or Sports Reference",
 	"'On my mission...'",
 	"The speaker cries",
 	"The Long Talker (over ten minutes)",
@@ -32,5 +32,6 @@ var availableCards = [
 	"Reference to outdated counsel (caffeine, etc.)",
 	"A child cries for 5 minutes",
 	"'I'll be brief...' (then isn't brief)",
-	"False doctrine"
+	"False doctrine",
+	"'I'd like to bear my testimony...'"
 ];
