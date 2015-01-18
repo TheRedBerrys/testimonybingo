@@ -2,13 +2,13 @@ var availableCards = [
 	"Member of the bishopric falls asleep",
 	"The phrase 'Tender Mercies'",
 	"Odd use of the word 'Even'",
-	"Politics",
+	"Politics or current events",
 	"Name dropper",
 	"'...With every fiber of my being...'",
 	"Too much information",
 	"'In the name of Thy Son...' (not in a prayer)",
 	"Bad Joke (people don't laugh)",
-	"Movie Comparison",
+	"Pop culture or sports reference",
 	"'On my mission...'",
 	"The speaker cries",
 	"Good Joke (people laugh)",
@@ -37,5 +37,6 @@ var availableCards = [
 	"Humble brag",
 	"Fancy prayer beginning or ending",
 	"'For those of you who don't know me...'",
-	"The prase 'Hasten the work'"
+	"The prase 'Hasten the work'",
+	"Sacrament Prayer re-do"
 ];
