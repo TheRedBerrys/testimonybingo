@@ -37,6 +37,6 @@ var availableCards = [
 	"Humble brag",
 	"Fancy prayer beginning or ending",
 	"'For those of you who don't know me...'",
-	"The prase 'Hasten the work'",
+	"The phrase 'Hasten the work'",
 	"Sacrament Prayer re-do"
 ];
