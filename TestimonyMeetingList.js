@@ -1,5 +1,4 @@
 var availableCards = [
-	"'I would be ungrateful if...'",
 	"Member of the bishopric falls asleep",
 	"The phrase 'Tender Mercies'",
 	"Odd use of the word 'Even'",
@@ -29,10 +28,10 @@ var availableCards = [
 	"'I don't know why I'm up here...'",
 	"Someone quotes scripture verbatim",
 	"Someone reads a passage",
-	"Entire testimony without mentioning Jesus",
+	"Entire testimony without mention of Jesus",
 	"Reference to outdated counsel (caffeine, etc.)",
 	"A child cries for 5 minutes",
 	"'I'll be brief...' (then isn't brief)",
 	"False doctrine",
-	"'I'd like to bear my testimony...' (exact wording)"
+	"'I'd like to bear my testimony' (exact wording)"
 ];
