@@ -18,7 +18,7 @@ var availableCards = [
 	"Pop Culture or Sports Reference",
 	"'On my mission...'",
 	"The speaker cries",
-	"The Long Talker (over ten minutes)",
+	"The Long Talker (over five minutes)",
 	"Not a member of the ward",
 	"Good Joke (people laugh)",
 	"Travel",
